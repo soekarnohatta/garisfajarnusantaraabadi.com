@@ -1,4 +1,4 @@
-baseURL = "http://192.168.1.11:1313"
+baseURL = "http://garisfajarnusantaraabadi.com"
 languageCode = "en-us"
 paginate = 5
 theme = "portio"
@@ -31,19 +31,19 @@ url = "#"
 weight = 6
 [[menu.sitemap]]
 name = "Tentang"
-url = "https://mpls.mpkosisalazhar19.online/#about"
+url = "https://garisfajarnusantaraabadi.com/#about"
 weight = 1
 [[menu.sitemap]]
 name = "Pinned Information"
-url = "https://mpls.mpkosisalazhar19.online/#service"
+url = "https://garisfajarnusantaraabadi.com/#service"
 weight = 2
 [[menu.sitemap]]
 name = "Galeri"
-url = "https://mpls.mpkosisalazhar19.online/#portfolio"
+url = "https://garisfajarnusantaraabadi.com/#portfolio"
 weight = 3
 [[menu.sitemap]]
 name = "Informasi"
-url = "https://mpls.mpkosisalazhar19.online#blog"
+url = "https://garisfajarnusantaraabadi.com#blog"
 weight = 4
 [params]
 blogPageURL = "blog"
@@ -69,7 +69,7 @@ url = "https://wa.me/6281310729415"
 weight = 1
 [[params.social]]
 icon = "fa-instagram"
-url = "https://instagram.com/mpkosisalazhar19"
+url = "https://instagram.com/"
 weight = 2
 [[params.social]]
 icon = "fa-youtube"
