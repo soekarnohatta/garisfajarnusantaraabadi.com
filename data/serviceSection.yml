@@ -1,0 +1,28 @@
+---
+enable: true
+topTitle: Informasi Penting
+title: >
+  ## Informasi Tersemat
+
+  Ini adalah bagian _Pinned Information_ yang berisi informasi tentang perusahaan.
+service:
+  - content: >
+      #### [Presensi Pegawai](/blog/info-presensiharian)
+
+      Klik ini apabila Anda ingin melakukan presensi harian.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### [Publikasi Perusahaan](/blog/info-presensidhuha)
+
+      Klik ini apabila Anda ingin melihat publikasi.
+    image: images/service/web.svg
+  - content: >
+      #### [Dokumen Perusahaan](/blog/info-booklet)
+
+       Klik ini apabila Anda ingin melihat dokumen perusahaan.
+    image: images/service/creative.svg
+  - content: >
+      #### [Informasi Lain](/blog)
+
+       Klik ini apabila Anda ingin mengetahui informasi lain.
+    image: images/service/branding.svg

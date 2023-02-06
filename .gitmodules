@@ -1,0 +1,9 @@
+[submodule "themes/portio"]
+	path = themes/portio
+	url = https://github.com/soekarnohatta/portio-hugo
+[submodule "portio-hugo"]
+	path = portio-hugo
+	url = https://github.com/soekarnohatta/portio-hugo
+[submodule "plugins/image-optim"]
+	path = plugins/image-optim
+	url = https://github.com/soekarnohatta/netlify-plugin-image-optim

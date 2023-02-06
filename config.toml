@@ -1,0 +1,81 @@
+baseURL = "http://192.168.1.11:1313"
+languageCode = "en-us"
+paginate = 5
+theme = "portio"
+title = "PT Garis Fajar Nusantara Abadi"
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.main]]
+name = "Beranda"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "Tentang"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Histori"
+url = "#service"
+weight = 3
+[[menu.main]]
+name = "Galeri"
+url = "#portfolio"
+weight = 4
+[[menu.main]]
+name = "Informasi"
+url = "#blog"
+weight = 5
+[[menu.main]]
+name = ""
+url = "#"
+weight = 6
+[[menu.sitemap]]
+name = "Tentang"
+url = "https://mpls.mpkosisalazhar19.online/#about"
+weight = 1
+[[menu.sitemap]]
+name = "Pinned Information"
+url = "https://mpls.mpkosisalazhar19.online/#service"
+weight = 2
+[[menu.sitemap]]
+name = "Galeri"
+url = "https://mpls.mpkosisalazhar19.online/#portfolio"
+weight = 3
+[[menu.sitemap]]
+name = "Informasi"
+url = "https://mpls.mpkosisalazhar19.online#blog"
+weight = 4
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "All rights reserved © Biro Puskominfo GFN 2023"
+footerLogo = "images/my-image/SMAIA-LOGO.png"
+formspreeURL = "https://formspree.io/f/meqvzkwn"
+googleAnalytics = "G-3C3Z0D5SC3"
+logo = "images/my-image/SMAIA-LOGO.png"
+[params.address]
+address = "18 Office Park Building 21th Floor, Jl. TB Simatupang Kav. 18, Jakarta Selatan, 12520"
+email = "ptgarisfajarnusantaraabadi@gmail.com"
+openingHours = "24 Hours"
+phone = "+(62)21 286 72073"
+[params.map]
+APIkey = "AIzaSyCpD25r44kI5riInNf9AOGWNpAVGziO9Iw"
+latitude = "-6.31965338630833"
+longitude = "106.87723546604138"
+pinImage = "images/pin.png"
+[[params.social]]
+icon = "fa-whatsapp"
+url = "https://wa.me/6281310729415"
+weight = 1
+[[params.social]]
+icon = "fa-instagram"
+url = "https://instagram.com/mpkosisalazhar19"
+weight = 2
+[[params.social]]
+icon = "fa-youtube"
+url = "https://youtube.com"
+weight = 3
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/"
+weight = 4

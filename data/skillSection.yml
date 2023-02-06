@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: Kegiatan Hari Ini
+content: >
+  ## Progres Kemajuan Kegiatan Perusahaan
+
+  Ini adalah bagian yang menunjukan kegiatan yang akan dilakukan hari ini
+
+image: images/lain/LIHAT_LAPTOP.jpg
+
+skill:
+  - title: Pembangunan Perumahan
+    percent: 20
+  - title: Construction Engineering
+    percent: 100
+  - title: Pertambangan
+    percent: 100

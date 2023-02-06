@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: Tentang
+title: >
+  ## Tentang Perusahaan
+
+  Ini adalah bagian tentang dari perusahaan PT Garis Fajar Nusantara Abadi
+content: >
+  ### Tentang PT Garis Fajar Nusantara Abadi
+
+  Perseroan Terbatas Garis Fajar Nusantara Abadi adalah perusahaan yang bergerak di 
+  berbagai macam sektor. Kami bergerak dibidang tambang, construction, and engineering.
+  Kami senantiasa meningkatkan kualitas perusahaan kami.
+button1Name: Tentang
+button2Name: Pinned Info
+button1Target: blog
+button2Target: https://mpls.mpkosisalazhar19.online/#service
+image: images/lain/konstruksi.jpg
