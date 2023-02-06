@@ -1,13 +1,12 @@
 ---
-title: Kunjungan Tuban Jawa Timur
+title: Kunjungan Kerja Tuban Jawa Timur
 date: 2021-05-04T18:07:16.000+06:00
 thumbnail: images/lain/k6.jpeg
 service: Lingkungan, Construction Engineering
 client: Nasional
-shortDescription: Laman ini dalam perbaikan
-challenge: Nil
-solution: Nil
+shortDescription: Kunjungan Kerja di Tuban Jawa Timur 
+challenge: Nihil
+solution: Nihil
 
 ---
-Laman ini dalam perbaikan
-{{<youtube u3nrUEIHVow>}}
+{{<youtube tl9lOBvfP5c>}}
