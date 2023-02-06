@@ -1,4 +1,4 @@
-baseURL = "http://garisfajarnusantaraabadi.com"
+baseURL = "https://garisfajarnusantaraabadi.com"
 languageCode = "en-us"
 paginate = 5
 theme = "portio"
@@ -14,7 +14,7 @@ name = "Tentang"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Histori"
+name = "Visi Misi"
 url = "#service"
 weight = 3
 [[menu.main]]
