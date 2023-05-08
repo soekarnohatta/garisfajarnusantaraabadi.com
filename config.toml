@@ -57,7 +57,7 @@ logo = "images/my-image/SMAIA-LOGO.png"
 address = "18 Office Park Building 21th Floor, Jl. TB Simatupang Kav. 18, Jakarta Selatan, 12520"
 email = "mail@garisfajarnusantaraabadi.com"
 openingHours = "24 Hours"
-phone = "+(62)21 286 72073"
+phone = ""
 [params.map]
 APIkey = "AIzaSyCpD25r44kI5riInNf9AOGWNpAVGziO9Iw"
 latitude = "-6.31965338630833"
