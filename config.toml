@@ -1,4 +1,4 @@
-baseURL = "https://garisfajarnusantaraabadi.com"
+baseURL = "https://garisfajarnusantaraabadi.id"
 languageCode = "en-us"
 paginate = 5
 theme = "portio"
@@ -31,19 +31,19 @@ url = "#"
 weight = 6
 [[menu.sitemap]]
 name = "Tentang"
-url = "https://garisfajarnusantaraabadi.com/#about"
+url = "https://garisfajarnusantaraabadi.id/#about"
 weight = 1
 [[menu.sitemap]]
 name = "Pinned Information"
-url = "https://garisfajarnusantaraabadi.com/#service"
+url = "https://garisfajarnusantaraabadi.id/#service"
 weight = 2
 [[menu.sitemap]]
 name = "Galeri"
-url = "https://garisfajarnusantaraabadi.com/#portfolio"
+url = "https://garisfajarnusantaraabadi.id/#portfolio"
 weight = 3
 [[menu.sitemap]]
 name = "Informasi"
-url = "https://garisfajarnusantaraabadi.com#blog"
+url = "https://garisfajarnusantaraabadi.id/#blog"
 weight = 4
 [params]
 blogPageURL = "blog"
@@ -55,7 +55,7 @@ googleAnalytics = "G-KES8R3D2NC"
 logo = "images/my-image/SMAIA-LOGO.png"
 [params.address]
 address = "Jakarta"
-email = "mail@garisfajarnusantaraabadi.com"
+email = "mail@garisfajarnusantaraabadi.id"
 openingHours = "24 Hours"
 phone = ""
 [params.map]
@@ -65,7 +65,7 @@ longitude = "106.87723546604138"
 pinImage = "images/pin.png"
 [[params.social]]
 icon = "fa-whatsapp"
-url = "https://wa.me/6281310729415"
+url = "https://wa.me/628111111857"
 weight = 1
 [[params.social]]
 icon = "fa-instagram"
